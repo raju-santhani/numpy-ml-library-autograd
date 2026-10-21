@@ -1,0 +1,4 @@
+# Dependencies found in the supplied source; versions are not locked.
+numpy
+pandas
+graphviz
